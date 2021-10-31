@@ -1,0 +1,26 @@
+{
+  "name": "02.hello",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "01.app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/booldook/2021-sc-node-02-hello.git"
+  },
+  "keywords": [
+    "Test",
+    "Booldook"
+  ],
+  "author": "Booldook",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/booldook/2021-sc-node-02-hello/issues"
+  },
+  "homepage": "https://github.com/booldook/2021-sc-node-02-hello#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
