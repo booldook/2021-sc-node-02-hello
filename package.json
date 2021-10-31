@@ -1,7 +1,6 @@
 {
   "name": "02.hello",
   "version": "1.0.0",
-  "description": "",
   "main": "01.app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,6 +18,9 @@
   "homepage": "https://github.com/booldook/2021-sc-node-02-hello#readme",
   "dependencies": {
     "axios": "^0.24.0",
-    "lodash": "^4.17.21"
-  }
+    "jquery": "^3.6.0",
+    "lodash": "^4.17.21",
+    "mysql2": "^2.3.2"
+  },
+  "description": ""
 }
